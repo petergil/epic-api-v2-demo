@@ -2,6 +2,8 @@
 
 Shell script to demonstrate the use of the epic API based on 8 examples (see the 'usage' section below).
 
+Access with administrative permissions for a prefix in an EPIC instance is needed. Please contact the EPIC operator of your choice.
+
 # Configuration
 
 Credentials need to be configured in a separate file. This ensures passwords don't have to be entered and are not visible during demonstrations.
@@ -17,6 +19,8 @@ Where:
 * "PREFIX": your epic handle prefix.
 * "PASSWORD": your epic password.
 * "TEST_HANDLE": a test handle (prefix/postfix) which has to pre-exist and is used in step 2, 3 and 8.
+
+Make sure the 'pid.client.sh" file is executable.
 
 # Usage
 
