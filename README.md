@@ -4,6 +4,8 @@ Shell script to demonstrate the use of the epic API based on 8 examples (see the
 
 Access with administrative permissions for a prefix in an EPIC instance is needed. Please contact the EPIC operator of your choice.
 
+EPIC API repository and documentation: https://github.com/pidconsortium/EPIC-API-v2
+
 # Configuration
 
 Credentials need to be configured in a separate file. This ensures passwords don't have to be entered and are not visible during demonstrations.
