@@ -1,0 +1,14 @@
+[
+  	{ 
+    		"type": "URL",
+    		"parsed_data": "http://www.sara.nl/Nagioscheck_updated"
+  	},
+  	{
+    		"type": "EMAIL",
+    		"parsed_data": "john.doe@example.com"
+ 	},
+ 	{
+		"type": "TEST",
+		"parsed_data": "test data"
+	}
+]
