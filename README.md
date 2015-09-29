@@ -38,7 +38,7 @@ Where:
 	8) Search on key=value in a prefix
 ```
 
-There are two addition files:
+There are two additional files used during creation and updating of PID records:
 
 1. "new_pid.json", which specifies the (key,value) pairs that should be associated with the newly minted PID.
 2. "update_pid.json", which specifies the (key,value) pairs that should be updated.
